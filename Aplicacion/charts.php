@@ -78,7 +78,7 @@ else{
         <div class="wrapper">
           <div id="chart"></div>
           <div id="migrap" style="width:100px;height:50px;">
-            <script type="text/javascript" src="js/aplicacion/realTime.js"></script>
+            <script type="text/javascript" src="js/aplicacion/HAR-IBAA.js"></script>
           </div>
         </div>
 
